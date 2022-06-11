@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.loginContainer{
+	margin:auto;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	background-color:#999999;
+	width:30%;
+	padding:10px;
+}
